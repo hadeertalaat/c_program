@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1529679676 source:d:\c_prog_2\centrifugeuse.c
+	"centrifugeuse.h"
+
+1529679522 d:\c_prog_2\centrifugeuse.h
+	<stdio.h>
+	"op_bits.h"
+	<stdlib.h>
+
+1529640382 d:\c_prog_2\previous.c
+
+1529679713 source:d:\c_prog_2\ligne_centrifugeuse.c
+	"ligne_centrifugeuse.h"
+
+1529679460 source:d:\c_prog_2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1529676994 source:d:\c_prog_2\op_bits.c
+	"op_bits.h"
+
+1529676994 d:\c_prog_2\op_bits.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
+1529641274 d:\c_prog_2\centrifugeuse.c
+	"centrifugeuse.h"
+
+1529679813 d:\c_prog_2\ligne_centrifugeuse.h
+	"centrifugeuse.h"
+	<stdlib.h>
+	<stdio.h>
+
+1529717176 source:e:\c_prog_2\centrifugeuse.c
+	"centrifugeuse.h"
+
+1529715524 e:\c_prog_2\centrifugeuse.h
+	<stdio.h>
+	"op_bits.h"
+	<stdlib.h>
+
+1529712996 e:\c_prog_2\op_bits.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
+1529717450 source:e:\c_prog_2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1529712996 source:e:\c_prog_2\op_bits.c
+	"op_bits.h"
+
+1529717178 source:e:\c_prog_2\ligne_centrifugeuse.c
+	"ligne_centrifugeuse.h"
+
+1529715814 e:\c_prog_2\ligne_centrifugeuse.h
+	"centrifugeuse.h"
+	<stdlib.h>
+	<stdio.h>
+
+1529683034 source:d:\c_prog_22\centrifugeuse.c
+	"centrifugeuse.h"
+
+1529683364 d:\c_prog_22\centrifugeuse.h
+	<stdlib.h>
+
+1529676996 d:\c_prog_22\op_bits.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
+1529683042 source:d:\c_prog_22\ligne_centrifugeuse.c
+	"ligne_centrifugeuse.h"
+	"centrifugeuse.h"
+	<stdlib.h>
+	<stdio.h>
+
+1529682942 d:\c_prog_22\ligne_centrifugeuse.h
+
+1529683541 source:d:\c_prog_22\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1529676996 source:d:\c_prog_22\op_bits.c
+	"op_bits.h"
+
+1529683028 d:\c_prog_22\centrifugeuse.c
+	"centrifugeuse.h"
+
